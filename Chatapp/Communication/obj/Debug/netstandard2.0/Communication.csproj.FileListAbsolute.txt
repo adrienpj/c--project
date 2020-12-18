@@ -1,0 +1,8 @@
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Communication\bin\Debug\netstandard2.0\Communication.deps.json
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Communication\bin\Debug\netstandard2.0\Communication.dll
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Communication\bin\Debug\netstandard2.0\Communication.pdb
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Communication\obj\Debug\netstandard2.0\Communication.AssemblyInfoInputs.cache
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Communication\obj\Debug\netstandard2.0\Communication.AssemblyInfo.cs
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Communication\obj\Debug\netstandard2.0\Communication.csproj.CoreCompileInputs.cache
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Communication\obj\Debug\netstandard2.0\Communication.dll
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Communication\obj\Debug\netstandard2.0\Communication.pdb

@@ -1,0 +1,16 @@
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Server\bin\Debug\netcoreapp3.1\ChatServer.exe
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Server\bin\Debug\netcoreapp3.1\ChatServer.deps.json
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Server\bin\Debug\netcoreapp3.1\ChatServer.runtimeconfig.json
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Server\bin\Debug\netcoreapp3.1\ChatServer.runtimeconfig.dev.json
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Server\bin\Debug\netcoreapp3.1\ChatServer.dll
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Server\bin\Debug\netcoreapp3.1\ChatServer.pdb
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Server\bin\Debug\netcoreapp3.1\Communication.dll
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Server\bin\Debug\netcoreapp3.1\Communication.pdb
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Server\obj\Debug\netcoreapp3.1\ChatServer.AssemblyInfoInputs.cache
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Server\obj\Debug\netcoreapp3.1\ChatServer.AssemblyInfo.cs
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Server\obj\Debug\netcoreapp3.1\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Server\obj\Debug\netcoreapp3.1\ChatServer.csproj.CopyComplete
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Server\obj\Debug\netcoreapp3.1\ChatServer.dll
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Server\obj\Debug\netcoreapp3.1\ChatServer.pdb
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Server\obj\Debug\netcoreapp3.1\ChatServer.genruntimeconfig.cache
+C:\Users\adrie\OneDrive\Bureau\Efrei\TP C#\Projet\Chatapp\Server\obj\Debug\netcoreapp3.1\ChatServer.csprojAssemblyReference.cache

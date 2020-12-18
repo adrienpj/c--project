@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SrxZGD/TB1IKXr08I25xfmEau/RFsYprmWB6dQevVt0XKCHszse3MdOXIz+LdAZHoSRJKvCdTlGSGdRFmMV4Nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adrie\\OneDrive\\Bureau\\Efrei\\TP C#\\Projet\\Chatapp\\Communication\\Communication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
